@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kiemtrasonguyen {
+public class bt3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
